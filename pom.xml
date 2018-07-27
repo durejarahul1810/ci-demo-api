@@ -259,9 +259,9 @@
 		</repository>
 	</distributionManagement>
 	<scm>
-    <connection>scm:git:git@github.com:rahuldureja/ci-demo-api.git</connection>
-    <developerConnection>scm:git:git@github.com:rahuldureja/ci-demo-api.git</developerConnection>
-    <url>https://github.com/rahuldureja/ci-demo-api</url>
+    <connection>scm:git:git@github.com:durejarahul1810/ci-demo-api.git</connection>
+    <developerConnection>scm:git:git@github.com:durejarahul1810/ci-demo-api.git</developerConnection>
+    <url>https://github.com/durejarahul1810/ci-demo-api</url>
     
   </scm>
 </project>
