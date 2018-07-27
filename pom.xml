@@ -21,7 +21,7 @@
 		<munit.version>1.3.7</munit.version>
 		<mule.munit.support.version>3.8.6</mule.munit.support.version>
 	
-    <type>application</type>
+    <type>example</type>
     </properties>
 
 	<build>
