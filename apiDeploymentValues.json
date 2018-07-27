@@ -1,0 +1,9 @@
+{
+    "apiName": "ci-demo-api",
+    "apiVersion": "v1",
+    "assetVersion": "1.0.0",
+    "instanceLabel": null,
+    "promoteAlerts": true,
+    "promotePolicies": true,
+    "promoteTiers": true
+    }
