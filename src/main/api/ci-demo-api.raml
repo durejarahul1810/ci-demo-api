@@ -1,0 +1,19 @@
+#%RAML 1.0
+version: v1
+title: ci-demo-api
+baseUri: http://localhost:8081
+
+/data:
+  get:
+    queryParameters: 
+      param1:
+        type: string
+        required: true
+      param2:
+        type: string
+        required: false
+    responses: 
+      200:
+        body: 
+          application/json:
+            
