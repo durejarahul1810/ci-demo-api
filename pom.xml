@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>d81dff8b-6b65-47f1-b75b-3081aca30055</groupId>
 	<artifactId>ci-demo-api-impl</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>CI Demo API Implementation</name>
 
@@ -263,6 +263,6 @@
     <developerConnection>scm:git:git@github.com:durejarahul1810/ci-demo-api.git</developerConnection>
     <url>https://github.com/durejarahul1810/ci-demo-api</url>
     
-    <tag>ci-demo-api-impl-1.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
